@@ -1,4 +1,4 @@
-Algoritmo "TESTA_CASO2"
+Algoritmo "Notas_Quantitativas"
 // Disciplna   : [Linguagem e Lógica de Programação] 
 // Professor   : Antonio Carlos Nicolodi 
 
